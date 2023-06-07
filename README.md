@@ -1,4 +1,4 @@
-[English](https://github.com/wendux/fly/blob/master/README-EN.md)|中文简体
+[English](https://github.com/wendux/fly/blob/master/README-EN.md)|
 
 [![fly.js](https://github.com/wendux/fly/raw/master/fly.png)](https://wendux.github.io/dist/#/doc/flyio/readme)
 
