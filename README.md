@@ -670,7 +670,6 @@ Fly 引入了Http engine 的概念，所谓 Http engine，就是真正发起http
 
 ## 最后
 
-如果感觉 Fly 对您有用，欢迎 star 。
 
 
 
